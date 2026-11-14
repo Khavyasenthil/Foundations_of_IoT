@@ -1,4 +1,5 @@
 #include <reg51.h>
+#include "keypad.h"
 
 #define LCD_PORT P3
 
